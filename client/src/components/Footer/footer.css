@@ -1,0 +1,11 @@
+.footerText {
+    margin: 0;
+    line-height: .4rem;
+    text-align: center;
+    color: rgb(0, 134, 0);
+}
+.footer-container {
+    margin-top: 20px;
+    margin-bottom: 0.05%;
+    height: 30px;
+}

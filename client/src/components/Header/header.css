@@ -1,0 +1,80 @@
+header {
+    background-color: #ffffff;
+}
+
+.navbar {
+    justify-content: end;
+}
+
+.navbar-container {
+    margin: 0 3%;
+    min-height: 75px;
+    max-height: 180px;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+
+.search-link {
+    font-weight: 500;
+    text-align: left;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.search-col {
+    padding-top: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    width: 30%;
+    max-width: 30%;
+    height: auto;
+    justify-content: center;
+}
+
+.search-link:hover {
+    color: rgb(98, 98, 98);
+}
+
+.page-title {
+    color: rgba(81, 166, 90, 0.938);
+    text-decoration: none;
+    text-align: left;
+    font-size: 40px;
+}
+
+.page-title:hover {
+    color: rgb(255, 159, 135);
+    opacity: 50%;
+    transition: all .5s ease;
+}
+
+.navbar-links {
+    font-weight: 500;
+}
+
+.link {
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+.link:hover {
+    color: rgb(98, 98, 98);
+}
+
+@media screen and (width <= 750px) {
+    
+    .navbar {
+        text-align: center;
+        justify-content: center;
+    }
+    .title-links {
+        flex-direction: column;
+    }
+    .page-title {
+        text-align: center;
+    }
+}

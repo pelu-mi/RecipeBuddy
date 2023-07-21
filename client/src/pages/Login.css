@@ -1,0 +1,43 @@
+.login-form {
+    display: flex;
+    justify-content: center;
+}
+
+.login-container {
+    background: linear-gradient(white, #e8c38c);
+    max-height: 748px;
+}
+
+.login-form .card {
+    margin: 7%;
+}
+
+.login-form h4 {
+    text-align: center;
+    color: white;
+}
+
+.card {
+    border-radius: "15px";
+}
+
+.login-btn:hover {
+    opacity: 100%;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+.login-input {
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    background-color: rgb(234, 234, 234);
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 10px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.login-container .login-form .card .card-header,
+.login-container .login-form .card .card-body {
+  border: none;
+}
