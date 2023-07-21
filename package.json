@@ -9,7 +9,7 @@
       "start-server": "node server/server.js",
       "start-client": "cd client && npm run start",
       "install": "cd server && npm install && cd ../client && npm install",
-      "build": "cd client && npm run build"
+      "build": "concurrently \"cd server && npm run start\" \"cd client && npm run build\""
     },
     "keywords": [],
     "author": "",
@@ -19,4 +19,3 @@
       "web-vitals": "^3.1.1"
     }
   }
-  
