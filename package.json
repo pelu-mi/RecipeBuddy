@@ -6,8 +6,8 @@
     "scripts": {
       "start": "concurrently \"cd server && npm run start\" \"cd client && npm start\"",
       "start-server": "node server/server.js",
-      "install": "cd server && npm i && cd ../client && npm i",
-      "build": "cd client && npm run build"
+      "start-client": "cd client && npm run start",
+      "install": "cd server && npm install && cd ../client && npm install"
     },
     "keywords": [],
     "author": "",
