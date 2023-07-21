@@ -6,7 +6,7 @@ This is my first project built using the MERN stack.
 
 The [MERN stack](https://www.mongodb.com/mern-stack) is a web development framework made up of the stack of MongoDB, Express.js, React.js, and Nodejs. It is one of the several variants of the [MEAN stack](https://www.mongodb.com/mean-stack).
 
-Live Site: Click [here](https://google.com)
+Live Site: Click [here](https://recipebuddy.netlify.app/)
 
 ## Backstory
 
