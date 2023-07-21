@@ -1,0 +1,57 @@
+[
+  {
+    "username": "Alan Kay",
+    "email": "akay@tech.dev",
+    "password": "p@wd06"
+  },
+  {
+    "username": "C.A.R. Hoare",
+    "email": "choare@tech.dev",
+    "password": "p@wd07"
+  },
+  {
+    "username": "David Thomas",
+    "email": "dthomas@tech.dev",
+    "password": "p@wd08"
+  },
+  {
+    "username": "Donald Knuth",
+    "email": "dknuth@tech.dev",
+    "password": "p@wd09"
+  },
+  {
+    "username": "Lernantio",
+    "email": "lernantio@tech.dev",
+    "password": "p@wd10"
+  },
+  {
+    "username": "Brian Kernighan",
+    "email": "bkernighan@tech.dev",
+    "password": "p@wd01"
+  },
+  {
+    "username": "Max Kanat-Alexander",
+    "email": "mkanatalexander@tech.dev",
+    "password": "p@wd02"
+  },
+  {
+    "username": "Why The Lucky Stiff",
+    "email": "wtls@tech.dev",
+    "password": "p@wd03"
+  },
+  {
+    "username": "Kent Beck",
+    "email": "kbeck@tech.dev",
+    "password": "p@wd04"
+  },
+  {
+    "username": "Edward V. Berard",
+    "email": "evberard@tech.dev",
+    "password": "p@wd05"
+  },
+  {
+    "username": "tester",
+    "email": "test@test.com",
+    "password": "test1234"
+  }
+]
