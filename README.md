@@ -18,7 +18,9 @@ This is my first step towards solving this problem.
 ## Directories
 
 `client` contains the code for the frontend 
+
 `server` contains the code for the backend
+
 `package.json` contains the commands to build the project locally
 
 
